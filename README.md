@@ -11,3 +11,5 @@
 * Дмитро Сенчило (telegram: [senchylo](https://t.me/senchylo))
 
 **[Посилання на проект](https://eugenesemivolos.github.io/open-data-management-system/)**
+
+--
